@@ -10,8 +10,7 @@ bio: "손코더뇌컴파일러눈디버거 @ kakao"
 external-image: false
 picture: assets/images/profile.jpg
 
-url: https://kwangswei.github.com
-# your url: http://USERNAME.github.io
+url: https://kwangswei.github.io
 
 permalink: /:title/
 

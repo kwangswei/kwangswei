@@ -2,6 +2,7 @@
 title: Approximate similarity search - A multi-faceted problem
 layout: post
 date: 2016-01-09
+category: blog
 tag:
 - knn
 - ann

@@ -2,7 +2,7 @@
 title: 예약하기 - Reservation
 layout: post
 date: 2017-01-30
-category: house
+category: airbnb
 tag:
 - jesse house
 - airbnb

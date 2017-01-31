@@ -9,7 +9,7 @@ title: Jesse House
 		<p class="text-center">Nothing published yet!</p>
 	{% elsif site.paginate %}
 		{% for post in paginator.posts %}
-            {% if post.category contains 'house' %}
+            {% if post.category contains 'airbnb' %}
 	            {% include blog-post.html %}
             {% endif %}
 	    {% endfor %}
@@ -19,7 +19,7 @@ title: Jesse House
 		{% endif %}
 	{% else %}
 		{% for post in site.posts %}
-            {% if post.category contains 'house' %}
+            {% if post.category contains 'airbnb' %}
 			    {% include blog-post.html %}
             {% endif %}
 		{% endfor %}

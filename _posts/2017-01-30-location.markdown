@@ -2,7 +2,7 @@
 title: 오시는 길 - Location
 layout: post
 date: 2017-01-30
-category: house
+category: airbnb
 tag:
 - jesse house
 - airbnb

@@ -2,7 +2,7 @@
 title: 이용약관 - Terms of Use
 layout: post
 date: 2017-01-30
-category: house
+category: airbnb
 tag:
 - jesse house
 - airbnb

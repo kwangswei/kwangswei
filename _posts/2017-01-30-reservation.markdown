@@ -48,9 +48,5 @@ author: kwangswei
   - 죄송합니다만, 고양이를 싫어하거나 고양이 털에 예민하신 분은 예약하실 수 없습니다.
 
 
-
-
-
-
 [1]: https://open.kakao.com/o/szezQcs
 [2]: http://kwangswei.github.io/terms-of-use/

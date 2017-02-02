@@ -10,8 +10,6 @@ blog: true
 author: kwangswei
 ---
 
+[airbnb 바로가기][1]
 
-## 부대시설
-바베큐
-무선와이파이
-
+[1] 

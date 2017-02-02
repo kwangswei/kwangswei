@@ -10,6 +10,6 @@ blog: true
 author: kwangswei
 ---
 
-[airbnb 바로가기][1]
+[airbnb바로가기][1]
 
-[1] 
+[1]: https://www.airbnb.co.kr/rooms/17015980

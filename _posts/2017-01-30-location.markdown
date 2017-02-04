@@ -6,7 +6,7 @@ category: airbnb
 tag:
 - jesse house
 - airbnb
-blog: true
+blog: false
 author: kwangswei
 ---
 
